@@ -1,0 +1,91 @@
+{
+  "item": {
+    "id": "xingzhou.hundouluo",
+    "restype": "quick_app",
+    "name": "魂斗罗",
+    "description": "魂斗罗\n\n售价：2.59 元\n\n经典横版射击，装进你的手表！一人一枪闯丛林：边跑边射、跳跃躲避，敌人不断迎面冲来，一路扫射突围。\n\n目前只开放1-3关，更多内容后续更新，敬请期待！\n\n玩法\n\n经典横版卷轴射击，边跑边射、节奏紧张\n跳跃躲避 + 连续射击，操作直接、一玩就上手\n敌人不断出现，考验反应与走位\n单人模式，纯粹闯关\n适配设备\n\n小米手环 9 Pro\n小米手环 10 Pro\n红米手表 5\n红米手表 6\n小米手环9，10，11",
+    "preview": [
+      "media/1792419969113.webp",
+      "media/1792420139578.webp",
+      "media/1792502601998.webp"
+    ],
+    "icon": "media/魂斗罗图标_圆形.png",
+    "cover": "media/魂斗罗宣传图_小于1MB.jpg",
+    "author": [
+      {
+        "name": "bandbbs_3604098",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "官网",
+      "url": "https://xingzhou.work/",
+      "icon": "globe"
+    },
+    {
+      "title": "爱发电",
+      "url": "https://afdian.com/a/xingzhouband",
+      "icon": "link"
+    },
+    {
+      "title": "qq群",
+      "url": "https://qm.qq.com/q/rxL2t5o1eE",
+      "icon": "chat"
+    }
+  ],
+  "downloads": {
+    "xmb9": {
+      "version": "3.0.8",
+      "file_name": "downloads/魂斗罗_小米手环9.rpk",
+      "versionCode": 27
+    },
+    "xmrw5": {
+      "version": "3.0.8",
+      "file_name": "downloads/魂斗罗_红米手表5-6.rpk",
+      "versionCode": 27
+    },
+    "xmrw5xring": {
+      "version": "3.0.8",
+      "file_name": "downloads/魂斗罗_红米手表5-6.rpk",
+      "versionCode": 27
+    },
+    "xmrw6": {
+      "version": "3.0.8",
+      "file_name": "downloads/魂斗罗_红米手表5-6.rpk",
+      "versionCode": 27
+    },
+    "xmb10nfc": {
+      "version": "3.0.8",
+      "file_name": "downloads/魂斗罗_小米手环10-11.rpk",
+      "versionCode": 27
+    },
+    "xmb10p": {
+      "version": "3.0.8",
+      "file_name": "downloads/魂斗罗_手环9Pro-10Pro.rpk",
+      "versionCode": 27
+    },
+    "xmb11": {
+      "version": "3.0.8",
+      "file_name": "downloads/魂斗罗_小米手环10-11.rpk",
+      "versionCode": 27
+    },
+    "xmb11nfc": {
+      "version": "3.0.8",
+      "file_name": "downloads/魂斗罗_小米手环10-11.rpk",
+      "versionCode": 27
+    },
+    "xmb9p": {
+      "version": "3.0.8",
+      "file_name": "downloads/魂斗罗_手环9Pro-10Pro.rpk",
+      "versionCode": 27
+    },
+    "xmb10": {
+      "version": "3.0.8",
+      "file_name": "downloads/魂斗罗_小米手环10-11.rpk",
+      "versionCode": 27
+    }
+  },
+  "ext": {}
+}
